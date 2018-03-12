@@ -1,5 +1,5 @@
 FROM phusion/baseimage:latest
-MAINTAINER pducharme@me.com
+MAINTAINER graham@grahamdprice.com
 
 # Version
 ENV version 3.9.4
